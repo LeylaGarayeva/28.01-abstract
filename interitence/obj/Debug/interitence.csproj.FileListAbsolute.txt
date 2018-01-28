@@ -1,0 +1,7 @@
+C:\Users\P502\Desktop\task\interitence\interitence\bin\Debug\interitence.exe.config
+C:\Users\P502\Desktop\task\interitence\interitence\bin\Debug\interitence.exe
+C:\Users\P502\Desktop\task\interitence\interitence\bin\Debug\interitence.pdb
+C:\Users\P502\Desktop\task\interitence\interitence\obj\Debug\interitence.csprojResolveAssemblyReference.cache
+C:\Users\P502\Desktop\task\interitence\interitence\obj\Debug\interitence.csproj.CoreCompileInputs.cache
+C:\Users\P502\Desktop\task\interitence\interitence\obj\Debug\interitence.exe
+C:\Users\P502\Desktop\task\interitence\interitence\obj\Debug\interitence.pdb
